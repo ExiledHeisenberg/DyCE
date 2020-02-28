@@ -79,7 +79,7 @@ _convoyConfigs =
 			"Armed Troop Convoy operations have been reported in the region.", 
 			50, 			//  8 - Convoy Speed Limit = The speed limit of the entire convoy. If you have a different vehicle classes, this will ensure they all go the same speed
 			EAST,			//  9 - Side of convoy
-			["loot"],			
+			["U_B_CTRG_1","U_B_CTRG_2","U_B_CTRG_3"],			
 							//	10 - Array of uniforms to put on soldiers and drivers
 			50, 			//  11 - Exile Vehicle Money Min = The minimum amount of poptabs in the vehicle 
 			100, 			//  12 - Exile Vehicle Money Max = The maximum amount of poptabs in the vehicle 
